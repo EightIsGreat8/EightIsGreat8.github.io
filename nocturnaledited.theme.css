@@ -5,7 +5,7 @@
 :root {
 	--backgroundDark: rgb(34, 36, 41);
 	--backgroundDarker: rgb(30, 31, 35);
-	--primary: #eb6b02;
+	--primary: #eb02c4;
 	--primaryGradient1: var(--primary);
 	--primaryGradient2: #ec8f43;
 	--DangerColor: #dc3545;
