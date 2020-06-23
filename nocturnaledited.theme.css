@@ -2,30 +2,6 @@
 @import url(https://codedotspectra.github.io/themes/core/hljs.css);
 @import url(https://codedotspectra.github.io/themes/core/settings-icons.css);
 @import url(https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css);
-:root {
-	--backgroundDark: rgb(34, 36, 41);
-	--backgroundDarker: rgb(30, 31, 35);
-	--primary: #eb6b02;
-	--primaryGradient1: var(--primary);
-	--primaryGradient2: #ec8f43;
-	--DangerColor: #dc3545;
-	--WarningColor: #ffc107;
-	--SuccesColor: #28a745;
-	--rs-small-spacing: 2px;
-  --rs-large-spacing: 3px;
-  --rs-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #1cb7ff;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d;
-  --home-icon: url(https://www.clker.com/cliparts/K/s/8/f/l/V/simple-orange-house-hi.png);
-
-	--backgroundCode: rgba(0,0,0,.35);
-	--backgroundName: rgba(0,0,0,.2);
-}
 /*butt*/
 .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover,.enabled-1t_Gxm:hover,.nowPlayingColumn-2sl4cE,.peopleList-3c4jOR,.container-1D34oG,#friends,.appMount-3VJmYg,.applicationStore-1pNvnv,.article-3kb3qm,.body-3ND3kc,.body-3iLsc4,.channels-Ie2l6A,.chat-3bRxxu,.chat-3bRxxu form,.container-1UB9sr,.container-2Thooq,.container-3ayLPN,.container-PNkimc,.content-yTz4x3,.footer-1fjuF6,.gameLibrary-TTDw4Y,.guildsWrapper-5TJh6A,.header-2o-2hj,.header-39GIC8,.headerBar-UHpsPw,.members-1998pB,.messagesWrapper-3lZDfY,.root-1BQpZw,.root-26DmKJ,.title-3qD0b-,.typeWindows-1za-n7,.video-1FfuMD, .da-peopleList, .da-nowPlayingScroller, .da-itemCard {
 	background-color: var(--backgroundDark)!important
